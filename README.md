@@ -13,6 +13,7 @@ minimal-webpack-workbox-boilerplate
 ### Examples
 -  [universal-demo-seventeen-ts/prod.client.js at 5aa9a9b1699de47cb1ce3f27591f2a3f259510f7 · alexsmith716/universal-demo-seventeen-ts](https://github.com/alexsmith716/universal-demo-seventeen-ts/blob/5aa9a9b1699de47cb1ce3f27591f2a3f259510f7/webpack/prod.client.js)
 - [bicycle-sharing-cms/webpack.config.js at df8dc4da47aa44bd07b770583d94eda5cc12d0f7 · MrZWH/bicycle-sharing-cms](https://github.com/MrZWH/bicycle-sharing-cms/blob/df8dc4da47aa44bd07b770583d94eda5cc12d0f7/config/webpack.config.js)
+- [A-Coder02/Share-Target-PWA: POC to list an app in share feature](https://github.com/A-Coder02/Share-Target-PWA)
 
 ### CLI Documentation
 - [webpack-cli/OPTIONS.md at master · webpack/webpack-cli](https://github.com/webpack/webpack-cli/blob/master/OPTIONS.md)
